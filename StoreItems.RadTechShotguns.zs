@@ -1,3 +1,14 @@
+class HDDoomedShotgun_Store : StoreItem
+{
+	override int GetType() { return SType_Weapon; }
+	override string GetCategory() { return "RadTech Inc."; }
+	override Name GetItem() { return 'DoomHunterRandom'; }
+	override string GetIcon() { return "HUNTA0"; }
+	override string GetDisplayName() { return "Doomed Shotgun"; }
+	override int GetBasePrice() { return 150; }
+	override string GetFlavorText() { return "I have a feeling you won't be using this for duck hunting."; }
+}
+
 class HDLessLsthalShotgun_Store : StoreItem
 {
 	override int GetType() { return SType_Weapon; }

@@ -15,3 +15,5 @@ version "4.6"
 #include "StoreItems.FlareGuns.zs"
 
 #include "StoreItems.juan.zs"
+
+#include "StoreItems.minerva.zs"
