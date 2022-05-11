@@ -17,3 +17,7 @@ version "4.6"
 #include "StoreItems.minerva.zs"
 
 #include "StoreItems.DM93.zs"
+
+#include "StoreItems.RadiCola.zs"
+
+#include "StoreItems.CacoPlushDoll.zs"
